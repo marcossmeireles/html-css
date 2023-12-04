@@ -1,2 +1,2 @@
 # html-css
- Excercio e Desafio do curso em video
+ Exercicio e Desafio do curso em video
